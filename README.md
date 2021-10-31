@@ -12,8 +12,8 @@ Implement gui wireframe [design](https://xd.adobe.com/view/7e920d04-a055-4c1e-8d
 
 ## version 0.2.0
 ### Description
-backend API
-begin designing content management gui.
+- backend API to support ui
+- begin designing content management gui.
 #### Estimate Completion 
 11/4/21
 
