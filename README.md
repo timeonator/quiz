@@ -1,6 +1,6 @@
 # Quiz
 
-Quiz is a simple survey or testing application.
+Quiz is a simple web application useful for conducting surveys or testing knowledge.
 
 # Implementation Planning
 
